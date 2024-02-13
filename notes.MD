@@ -30,3 +30,19 @@ Goal is to achieve highest accuracy
 A form of machine learning that used a layered representation of data
 Multiple layers of data transformed before output
 Multistages layer abstraction process
+
+# Tensorflow
+
+- Can be used for:
+
+  - image classification
+  - data clustering
+  - regression
+  - reinforcement learning
+  - natural language processing
+
+- Two main components:
+  - Graphs
+    - way of defining operations that have been written in code. No computations
+- Sessions
+  - Executes parts of graph. Allocates memory and resources and handles operations
